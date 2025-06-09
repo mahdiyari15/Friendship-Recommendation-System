@@ -1,0 +1,806 @@
+movie_id,title,year,duration,average_rating
+1,House,1977,88,4.0
+2,Ant-Man,2015,117,3.2
+3,Jai Bhim,2021,164,3.7
+4,The Nice Guys,2016,116,3.8
+5,Aftersun,2022,101,4.2
+6,The Cabin in the Woods,2011,95,3.4
+7,Mean Girls,2004,97,3.8
+8,Fargo,1996,98,4.2
+9,Inside Out,2015,95,3.8
+10,Fresh,2022,115,3.4
+11,Harry Potter and the Philosopher's Stone,2001,152,3.8
+12,The Hunger Games: The Ballad of Songbirds & Snakes,2023,157,3.6
+13,Mysterious Skin,2004,105,4.2
+14,Mission: Impossible – Dead Reckoning,2023,164,3.7
+15,Skyfall,2012,143,3.9
+16,Barbie,2023,114,3.8
+17,The Usual Suspects,1995,106,4.1
+18,La La Land,2016,129,4.1
+19,Enemy,2013,91,3.6
+20,Groundhog Day,1993,101,3.8
+21,Se7en,1995,127,4.3
+22,A Quiet Place,2018,91,3.6
+23,Joker: Folie à Deux,2024,138,2.4
+24,Klaus,2019,96,4.2
+25,Train to Busan,2016,118,4.0
+26,The Hunger Games: Mockingjay – Part 1,2014,123,3.3
+27,But I'm a Cheerleader,1999,85,4.0
+28,The Great Escape,1963,173,4.1
+29,Brokeback Mountain,2005,134,4.1
+30,Kill Bill: Vol. 2,2004,136,4.1
+31,Bram Stoker's Dracula,1992,128,3.7
+32,Thirteen,2003,100,3.5
+33,Black Panther,2018,135,3.7
+34,The Edge of Seventeen,2016,105,3.5
+35,Doctor Strange in the Multiverse of Madness,2022,126,2.9
+36,Star Wars: The Force Awakens,2015,136,3.3
+37,La haine,1995,98,4.5
+38,The Perks of Being a Wallflower,2012,103,4.0
+39,Avengers: Age of Ultron,2015,141,3.2
+40,Blue Velvet,1986,120,4.1
+41,Pearl,2022,102,3.7
+42,Rocky,1976,120,4.1
+43,Hot Fuzz,2007,121,4.1
+44,Mamma Mia!,2008,108,3.8
+45,Charlie and the Chocolate Factory,2005,115,3.3
+46,A Silent Voice: The Movie,2016,129,4.2
+47,Napoleon Dynamite,2004,95,3.7
+48,The Evil Dead,1981,85,3.7
+49,Double Indemnity,1944,107,4.3
+50,Mad Max: Fury Road,2015,121,4.2
+51,Donnie Darko,2001,114,4.0
+52,World War Z,2013,116,3.2
+53,Frozen II,2019,103,3.1
+54,The Substance,2024,141,3.8
+55,Top Gun,1986,110,3.4
+56,Incendies,2010,131,4.4
+57,Conclave,2024,120,3.9
+58,Sound of Metal,2019,120,4.2
+59,The Apartment,1960,125,4.4
+60,Venom: Let There Be Carnage,2021,97,2.5
+61,Hotel Rwanda,2004,121,3.8
+62,Star Wars: The Rise of Skywalker,2019,142,2.3
+63,Black Swan,2010,109,4.2
+64,Spider-Man: Far From Home,2019,129,3.4
+65,Thor: Love and Thunder,2022,119,2.4
+66,Beetlejuice Beetlejuice,2024,105,3.2
+67,The Suicide Squad,2021,132,3.5
+68,Moonrise Kingdom,2012,94,4.0
+69,Back to the Future,1985,116,4.2
+70,Terminator 2: Judgment Day,1991,137,4.3
+71,She's the Man,2006,105,3.4
+72,Puss in Boots: The Last Wish,2022,103,4.1
+73,The Virgin Suicides,1999,97,3.8
+74,Alien: Romulus,2024,119,3.6
+75,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,109,3.0
+76,Some Like It Hot,1959,122,4.3
+77,Titanic,1997,194,3.8
+78,It,2017,135,3.4
+79,Green Book,2018,130,3.8
+80,Me Before You,2016,110,3.4
+81,Prisoners,2013,153,4.3
+82,City Lights,1931,87,4.3
+83,Elf,2003,97,3.5
+84,The Babadook,2014,94,3.3
+85,West Side Story,2021,156,3.6
+86,Gladiator,2000,155,4.1
+87,Big Hero 6,2014,102,3.8
+88,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,100,3.8
+89,The Hunger Games: Catching Fire,2013,146,3.9
+90,The Gold Rush,1925,95,4.1
+91,Cocaine Bear,2023,95,2.7
+92,Carry-On,2024,120,3.0
+93,Moneyball,2011,134,3.9
+94,My Father and My Son,2005,112,3.9
+95,The Breakfast Club,1985,98,3.8
+96,Network,1976,122,4.3
+97,The Secret Life of Walter Mitty,2013,114,3.8
+98,Bridget Jones's Diary,2001,97,3.5
+99,The Father,2020,97,4.3
+100,The Elephant Man,1980,124,4.3
+101,Talk to Me,2022,95,3.5
+102,Legally Blonde,2001,96,3.8
+103,Scott Pilgrim vs. the World,2010,113,3.9
+104,The Big Short,2015,131,3.8
+105,Lawrence of Arabia,1962,228,4.4
+106,Knives Out,2019,131,4.0
+107,Tangled,2010,100,4.0
+108,Nomadland,2020,108,3.8
+109,Emilia Pérez,2024,132,2.0
+110,Inception,2010,148,4.2
+111,Palm Springs,2020,90,3.8
+112,Gladiator II,2024,148,3.3
+113,Scarface,1983,169,4.1
+114,The Lion King,1994,89,4.2
+115,Babylon,2022,189,3.8
+116,Phantom Thread,2017,130,4.1
+117,Akira,1988,124,4.3
+118,E.T. the Extra-Terrestrial,1982,115,3.8
+119,Mission: Impossible,1996,110,3.6
+120,Trap,2024,105,2.7
+121,Madagascar,2005,86,3.5
+122,Brave,2012,93,3.4
+123,X,2022,106,3.4
+124,Tenet,2020,150,3.4
+125,Society of the Snow,2023,144,4.1
+126,John Wick: Chapter 2,2017,122,3.7
+127,Kingsman: The Secret Service,2014,129,3.7
+128,Grease,1978,110,3.5
+129,The Super Mario Bros. Movie,2023,93,3.2
+130,Nosferatu,2024,133,3.7
+131,The Mitchells vs. the Machines,2021,110,3.9
+132,Life of Pi,2012,127,3.7
+133,The Lord of the Rings: The Two Towers,2002,179,4.4
+134,The Lego Movie,2014,100,3.8
+135,Rango,2011,112,3.7
+136,Fantastic Mr. Fox,2009,87,4.3
+137,Crazy Rich Asians,2018,121,3.5
+138,Paprika,2006,90,4.1
+139,Thor: The Dark World,2013,112,2.2
+140,Finding Dory,2016,97,3.3
+141,Home Alone 2: Lost in New York,1992,120,3.5
+142,Ready Player One,2018,140,3.3
+143,The Hunger Games,2012,142,3.7
+144,Dawn of the Planet of the Apes,2014,130,3.8
+145,Minari,2020,115,4.1
+146,Drishyam,2015,163,3.8
+147,Rocketman,2019,121,3.7
+148,Companion,2025,97,3.5
+149,Spider-Man,2002,121,3.8
+150,Once Upon a Time in America,1984,229,4.2
+151,Pitch Perfect,2012,112,3.5
+152,Indiana Jones and the Dial of Destiny,2023,155,2.9
+153,The Grapes of Wrath,1940,129,4.2
+154,The Notebook,2004,123,3.8
+155,I'm Thinking of Ending Things,2020,135,3.5
+156,The Hobbit: The Desolation of Smaug,2013,161,3.4
+157,Breakfast at Tiffany's,1961,115,3.8
+158,The Princess and the Frog,2009,98,3.9
+159,The Lego Batman Movie,2017,104,3.9
+160,Close,2022,104,4.1
+161,No Hard Feelings,2023,104,3.0
+162,Drive My Car,2021,179,4.2
+163,12 Angry Men,1957,97,4.6
+164,Longlegs,2024,101,3.4
+165,Smile,2022,115,2.8
+166,The Blair Witch Project,1999,81,3.3
+167,Rosemary's Baby,1968,138,4.2
+168,Night at the Museum,2006,108,3.3
+169,Everything Everywhere All at Once,2022,140,4.3
+170,The Sixth Sense,1999,107,4.1
+171,The Big Lebowski,1998,117,4.1
+172,The Silence of the Lambs,1991,119,4.3
+173,The Maze Runner,2014,113,3.4
+174,Eternals,2021,156,2.7
+175,For a Few Dollars More,1965,132,4.2
+176,The Fly,1986,96,4.0
+177,Dune,2021,155,3.9
+178,The Pianist,2002,150,4.4
+179,Corpse Bride,2005,77,3.9
+180,Hacksaw Ridge,2016,139,4.0
+181,Leave the World Behind,2023,142,2.8
+182,It Follows,2014,101,3.5
+183,High and Low,1963,142,4.6
+184,The Theory of Everything,2014,123,3.6
+185,Dune: Part Two,2024,167,4.4
+186,10 Cloverfield Lane,2016,104,3.6
+187,The Hobbit: An Unexpected Journey,2012,169,3.5
+188,Pirates of the Caribbean: At World's End,2007,169,3.5
+189,Ratatouille,2007,111,4.2
+190,12th Fail,2023,146,4.1
+191,My Neighbor Totoro,1988,86,4.2
+192,The Nightmare Before Christmas,1993,76,4.0
+193,Suicide Squad,2021,132,3.5
+194,Kick-Ass,2010,117,3.5
+195,Spirited Away,2001,125,4.4
+196,Blink Twice,2024,103,3.3
+197,Incredibles 2,2018,118,3.4
+198,The Holdovers,2023,133,4.2
+199,The Amazing Spider-Man 2,2014,141,3.0
+200,The Banshees of Inisherin,2022,114,4.1
+201,The Amazing Spider-Man,2012,136,3.4
+202,Magnolia,1999,189,4.2
+203,Dunkirk,2017,107,3.8
+204,Furiosa: A Mad Max Saga,2024,149,3.8
+205,The Intouchables,2011,113,4.1
+206,Full Metal Jacket,1987,117,4.2
+207,Toy Story 2,1999,92,3.9
+208,The Empire Strikes Back,1980,124,4.4
+209,Avatar,2009,162,3.6
+210,Don't Worry Darling,2022,123,3.0
+211,The Menu,2022,107,3.5
+212,Decision to Leave,2022,138,4.0
+213,Heretic,2024,111,3.4
+214,Cinema Paradiso,1988,155,4.5
+215,It Chapter Two,2019,169,2.9
+216,Ponyo,2008,100,4.1
+217,Iron Man 3,2013,130,3.0
+218,Das Boot,1981,150,4.3
+219,Rebecca,1940,130,4.1
+220,Shrek 2,2004,92,4.1
+221,Twilight,2008,122,3.0
+222,Jennifer's Body,2009,107,3.4
+223,Dangal,2016,161,3.9
+224,Oppenheimer,2023,181,4.2
+225,Eighth Grade,2018,94,3.8
+226,The Devil Wears Prada,2006,109,3.8
+227,It Ends with Us,2024,131,2.4
+228,Hereditary,2018,128,4.0
+229,The Hangover,2009,100,3.7
+230,Matilda,1996,98,3.7
+231,The Lives of Others,2006,137,4.3
+232,Ben-Hur,1959,222,4.1
+233,Blade Runner,1982,118,4.1
+234,Immaculate,2024,89,2.9
+235,To All the Boys I've Loved Before,2018,100,3.1
+236,Rear Window,1954,112,4.4
+237,Beau Is Afraid,2023,179,3.4
+238,Jumanji: Welcome to the Jungle,2017,119,3.1
+239,Wonka,2023,117,3.2
+240,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,84,3.7
+241,Star Wars,1977,121,4.2
+242,Jurassic Park,1993,127,4.1
+243,The Invisible Man,2020,124,3.4
+244,The Proposal,2009,108,3.4
+245,American Beauty,1999,122,4.0
+246,28 Days Later,2002,113,3.8
+247,Spider-Man 3,2007,139,3.1
+248,How to Train Your Dragon 2,2014,102,3.8
+249,To Kill a Mockingbird,1962,129,4.1
+250,Late Night with the Devil,2023,93,3.4
+251,Scream 2,1997,120,3.3
+252,Star Wars: The Last Jedi,2017,152,2.9
+253,Annihilation,2018,115,3.6
+254,Jaws,1975,124,3.9
+255,The Sting,1973,129,4.2
+256,Lost in Translation,2003,102,3.8
+257,A Quiet Place Part II,2020,96,3.4
+258,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,3.6
+259,Zombieland,2009,88,3.5
+260,Pan's Labyrinth,2006,118,4.2
+261,Kingsman: The Golden Circle,2017,141,3.2
+262,Big Fish,2003,125,3.9
+263,Nocturnal Animals,2016,117,3.7
+264,Rogue One: A Star Wars Story,2016,133,3.8
+265,Toy Story 3,2010,103,4.0
+266,Mamma Mia! Here We Go Again,2018,114,3.4
+267,M3GAN,2022,102,2.7
+268,Schindler's List,1993,195,4.5
+269,X-Men,2000,104,3.3
+270,The Shape of Water,2017,123,3.7
+271,Jojo Rabbit,2019,108,4.0
+272,Kung Fu Panda,2008,90,3.9
+273,All Quiet on the Western Front,2022,147,4.0
+274,Split,2016,117,3.5
+275,The Hateful Eight,2015,188,4.0
+276,Little Miss Sunshine,2006,102,4.2
+277,Twisters,2024,123,3.3
+278,Doctor Strange,2016,115,3.5
+279,When Harry Met Sally...,1989,96,4.1
+280,Almost Famous,2000,124,4.1
+281,Promising Young Woman,2020,113,3.7
+282,Once Upon a Time in the West,1968,166,4.4
+283,Licorice Pizza,2021,133,3.6
+284,BlacKkKlansman,2018,136,3.9
+285,Captain Marvel,2019,124,2.7
+286,Kingdom of the Planet of the Apes,2024,145,3.3
+287,Enola Holmes,2020,123,3.1
+288,The Green Mile,1999,189,4.2
+289,Challengers,2024,132,3.9
+290,Perfect Blue,1997,82,4.4
+291,Carrie,1976,98,3.9
+292,Interstellar,2014,169,4.4
+293,Kiki's Delivery Service,1989,103,4.1
+294,Ex Machina,2015,108,4.0
+295,Wreck-It Ralph,2012,101,3.6
+296,Spider-Man: Across the Spider-Verse,2023,140,4.4
+297,1917,2019,119,4.1
+298,Deadpool,2016,108,3.7
+299,Dirty Dancing,1987,100,3.7
+300,The Great Dictator,1940,125,4.3
+301,Bodies Bodies Bodies,2022,94,3.3
+302,Ferris Bueller's Day Off,1986,103,3.9
+303,The Passion of Joan of Arc,1928,82,4.4
+304,The Incredibles,2004,115,4.1
+305,Uncut Gems,2019,136,3.9
+306,Mission: Impossible – Fallout,2018,147,4.0
+307,The Brutalist,2024,215,4.0
+308,Star Wars: Episode VI - Return of the Jedi,1983,132,4.1
+309,Metropolis,1927,148,4.3
+310,Room,2015,118,4.0
+311,Napoleon,2023,158,2.9
+312,"Girl, Interrupted",1999,127,3.9
+313,21 Jump Street,2012,109,3.6
+314,Harry Potter and the Goblet of Fire,2005,157,3.8
+315,Warrior,2011,140,4.0
+316,The Hobbit: The Battle of the Five Armies,2014,144,3.2
+317,Fantastic Beasts and Where to Find Them,2016,132,3.1
+318,Aquaman,2018,143,2.8
+319,Zoolander,2001,89,3.4
+320,Little Women,2019,135,4.2
+321,John Wick: Chapter 3 – Parabellum,2019,131,3.7
+322,No Time to Die,2021,163,3.5
+323,Snatch,2000,103,4.0
+324,The Wages of Fear,1953,153,4.3
+325,Possession,1981,124,4.1
+326,American History X,1998,119,4.1
+327,The Shining,1980,144,4.2
+328,Past Lives,2023,106,4.2
+329,Dead Poets Society,1989,128,4.3
+330,Eyes Wide Shut,1999,159,4.0
+331,Paddington 2,2017,104,4.2
+332,Spencer,2021,117,3.7
+333,Avengers: Endgame,2019,181,3.9
+334,Now You See Me,2013,116,3.4
+335,Children of Heaven,1997,88,4.2
+336,Taxi Driver,1976,114,4.1
+337,Scooby-Doo,2002,86,3.3
+338,Isle of Dogs,2018,101,4.0
+339,The Great Gatsby,2013,143,3.4
+340,Cruella,2021,134,3.5
+341,Ice Age,2002,81,3.6
+342,The Green Knight,2021,130,3.7
+343,Sorry to Bother You,2018,112,3.7
+344,The Polar Express,2004,100,3.3
+345,Sunset Boulevard,1950,110,4.4
+346,The Deer Hunter,1978,183,4.2
+347,White Chicks,2004,109,3.5
+348,Superbad,2007,113,3.9
+349,Gone Girl,2014,149,4.1
+350,Despicable Me,2010,95,3.6
+351,Life Is Beautiful,1997,116,4.4
+352,Rise of the Planet of the Apes,2011,105,3.7
+353,Casino,1995,179,4.2
+354,Monkey Man,2024,121,3.7
+355,Coraline,2009,100,4.2
+356,Beetlejuice,1988,92,3.7
+357,John Wick,2014,101,3.8
+358,Shang-Chi and the Legend of the Ten Rings,2021,132,3.4
+359,Edge of Tomorrow,2014,114,3.8
+360,Mulan,1998,88,4.1
+361,"Lock, Stock and Two Smoking Barrels",1998,105,4.0
+362,Harry Potter and the Half-Blood Prince,2009,153,3.7
+363,Love Lies Bleeding,2024,104,3.5
+364,Queer,2024,136,3.4
+365,The Conjuring,2013,112,3.6
+366,"Red, White & Royal Blue",2023,121,3.2
+367,Yojimbo,1961,110,4.3
+368,The Holiday,2006,136,3.6
+369,Scream VI,2023,123,3.4
+370,Finding Nemo,2003,100,4.0
+371,Fallen Angels,1995,98,4.2
+372,Aladdin,1992,95,3.9
+373,Cast Away,2000,143,3.9
+374,Mr. Smith Goes to Washington,1939,129,4.1
+375,Your Name.,2016,106,4.2
+376,Arrival,2016,116,4.1
+377,The Seventh Seal,1957,96,4.3
+378,We Live in Time,2024,108,3.7
+379,Lilo & Stitch,2002,85,4.0
+380,Capernaum,2018,126,4.2
+381,Bottoms,2023,91,3.8
+382,The Witch,2015,92,3.8
+383,Spotlight,2015,129,4.1
+384,Midsommar,2019,147,3.8
+385,Gran Torino,2008,116,3.8
+386,Indiana Jones and the Last Crusade,1989,127,4.1
+387,Jumanji,1995,104,3.6
+388,Return of the Jedi,1983,132,4.1
+389,Love Actually,2003,135,3.5
+390,The Irishman,2019,209,3.9
+391,The Flash,2023,144,2.5
+392,The Fall Guy,2024,127,3.4
+393,The Twilight Saga: New Moon,2009,131,2.7
+394,Star Wars: Episode I – The Phantom Menace,1999,136,3.0
+395,Titane,2021,108,3.6
+396,Grave of the Fireflies,1988,89,4.5
+397,Rushmore,1998,93,3.9
+398,The Parent Trap,1998,128,3.8
+399,The Treasure of the Sierra Madre,1948,126,4.3
+400,Call Me by Your Name,2017,132,3.9
+401,Aliens,1986,137,4.1
+402,Mary and Max,2009,92,4.3
+403,The Batman,2022,177,4.0
+404,Witness for the Prosecution,1957,116,4.4
+405,Raiders of the Lost Ark,1981,115,4.2
+406,Glass Onion,2022,140,3.4
+407,Avatar: The Way of Water,2022,192,3.6
+408,Divergent,2014,139,2.9
+409,Memento,2000,113,4.2
+410,Pride & Prejudice,2005,129,4.1
+411,Encanto,2021,102,3.5
+412,The Exorcist,1973,122,4.0
+413,The Wizard of Oz,1939,102,4.0
+414,Frozen,2013,102,3.4
+415,The Lord of the Rings: The Fellowship of the Ring,2001,179,4.4
+416,Kill Bill: Vol. 1,2003,111,4.2
+417,Catch Me If You Can,2002,141,4.0
+418,The Grand Budapest Hotel,2014,100,4.2
+419,The Kid,1921,68,4.2
+420,All of Us Strangers,2023,105,3.9
+421,The Power of the Dog,2021,127,3.7
+422,Psycho,1960,109,4.3
+423,The Handmaiden,2016,145,4.4
+424,13 Going on 30,2004,98,3.6
+425,Moulin Rouge!,2001,128,3.8
+426,In the Mood for Love,2000,99,4.4
+427,Braveheart,1995,177,3.9
+428,The Little Mermaid,2023,135,3.1
+429,Singin' in the Rain,1952,103,4.3
+430,The Greatest Showman,2017,105,3.5
+431,There Will Be Blood,2007,158,4.5
+432,About Time,2013,123,4.0
+433,Good Time,2017,102,4.0
+434,Wild Tales,2014,122,4.1
+435,Deadpool 2,2018,120,3.5
+436,Captain America: Civil War,2016,147,3.6
+437,Romeo + Juliet,1996,120,3.4
+438,The Whale,2022,117,3.7
+439,A Clockwork Orange,1971,137,4.1
+440,Seven Samurai,1954,207,4.6
+441,Drive,2011,100,3.9
+442,The Black Phone,2021,103,3.3
+443,Punch-Drunk Love,2002,96,4.0
+444,Edward Scissorhands,1990,105,3.9
+445,The Avengers,2012,143,3.7
+446,Iron Man 2,2010,124,2.9
+447,Booksmart,2019,102,3.7
+448,Beauty and the Beast,1991,84,3.9
+449,Carol,2015,118,4.0
+450,Howl's Moving Castle,2004,119,4.3
+451,10 Things I Hate About You,1999,97,4.0
+452,Moonlight,2016,111,4.2
+453,Last Night in Soho,2021,116,3.4
+454,War for the Planet of the Apes,2017,140,3.8
+455,The Revenant,2015,157,3.9
+456,The Secret in Their Eyes,2009,130,4.2
+457,Judgment at Nuremberg,1961,191,4.3
+458,Spider-Man: No Way Home,2021,148,3.8
+459,The Girl with the Dragon Tattoo,2011,158,3.9
+460,Casablanca,1942,102,4.3
+461,The Dark Knight,2008,152,4.5
+462,The Godfather Part II,1974,202,4.6
+463,"Crazy, Stupid, Love.",2011,118,3.7
+464,The Princess Bride,1987,99,4.1
+465,Gone with the Wind,1939,233,3.9
+466,Ford v Ferrari,2019,153,4.0
+467,Manchester by the Sea,2016,138,4.1
+468,"Monsters, Inc.",2001,92,4.1
+469,Jurassic World,2015,124,3.1
+470,The Iron Giant,1999,86,4.3
+471,In Bruges,2008,108,4.1
+472,Maharaja,2024,141,3.8
+473,MaXXXine,2024,104,3.1
+474,Chungking Express,1994,103,4.3
+475,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,4.0
+476,The Truman Show,1998,103,4.2
+477,The Queen's Gambit,2020,393,4.2
+478,Persona,1966,83,4.4
+479,The Hunt,2012,116,4.3
+480,Raging Bull,1980,129,4.2
+481,North by Northwest,1959,136,4.2
+482,Priscilla,2023,113,3.5
+483,Spider-Man: Homecoming,2017,133,3.5
+484,Paddington,2014,95,3.8
+485,The Mask,1994,101,3.4
+486,Blade Runner 2049,2017,164,4.1
+487,The Terminator,1984,108,3.9
+488,Silver Linings Playbook,2012,122,3.7
+489,Birdman or (The Unexpected Virtue of Ignorance),2014,120,4.0
+490,Home Alone,1990,103,3.8
+491,A Quiet Place: Day One,2024,99,3.2
+492,Inside Out 2,2024,97,3.6
+493,Princess Mononoke,1997,134,4.4
+494,The Help,2011,146,3.9
+495,Guardians of the Galaxy,2014,121,3.8
+496,Guardians of the Galaxy Vol. 3,2023,150,4.0
+497,Mulholland Drive,2001,147,4.3
+498,Thelma & Louise,1991,130,4.2
+499,Waves,2019,135,3.9
+500,Hit Man,2023,116,3.3
+501,Iron Man,2008,126,3.7
+502,Free Guy,2021,115,3.0
+503,American Fiction,2023,117,3.7
+504,The Boy in the Striped Pyjamas,2008,94,3.6
+505,The Idea of You,2024,116,2.5
+506,Marriage Story,2019,137,4.0
+507,Memories of Murder,2003,131,4.4
+508,Harry Potter and the Chamber of Secrets,2002,161,3.6
+509,Megamind,2010,96,3.7
+510,The Rocky Horror Picture Show,1975,100,4.0
+511,The Talented Mr. Ripley,1999,140,3.9
+512,The Princess Diaries,2001,115,3.7
+513,The Martian,2015,141,3.8
+514,Ant-Man and the Wasp,2018,119,2.9
+515,Vertigo,1958,128,4.2
+516,Smile 2,2024,127,3.3
+517,Harakiri,1962,135,4.7
+518,X-Men: First Class,2011,132,3.6
+519,Shazam!,2019,132,3.1
+520,Deadpool & Wolverine,2024,128,3.5
+521,Nope,2022,130,3.7
+522,Joker,2019,122,3.8
+523,The Best Years of Our Lives,1946,171,4.2
+524,Unforgiven,1992,130,4.2
+525,Hercules,1997,93,3.8
+526,The Florida Project,2017,112,4.1
+527,Bones and All,2022,130,3.7
+528,Marie Antoinette,2006,123,3.7
+529,Chinatown,1974,130,4.3
+530,One Flew Over the Cuckoo's Nest,1975,133,4.4
+531,Easy A,2010,93,3.4
+532,School of Rock,2003,110,3.8
+533,Captain America: The First Avenger,2011,124,3.3
+534,Atonement,2007,123,4.0
+535,Ready or Not,2019,95,3.5
+536,Shiva Baby,2020,78,3.8
+537,Pretty Woman,1990,120,3.7
+538,Her,2013,126,4.0
+539,Captain America: Brave New World,2025,119,2.6
+540,Thor,2011,115,2.8
+541,Gravity,2013,91,3.5
+542,Eraserhead,1977,89,3.8
+543,Elemental,2023,102,3.3
+544,Freaky Friday,2003,97,3.5
+545,Uncharted,2022,116,2.6
+546,Elvis,2022,159,3.3
+547,Modern Times,1936,87,4.3
+548,How to Train Your Dragon,2010,98,4.1
+549,Mickey 17,2025,137,3.7
+550,The Prestige,2006,130,4.3
+551,Downfall,2004,155,4.1
+552,The Worst Person in the World,2021,128,4.1
+553,Heathers,1989,103,3.8
+554,Ocean's Eleven,2001,116,3.9
+555,(500) Days of Summer,2009,95,3.7
+556,Asteroid City,2023,105,3.5
+557,Black Widow,2021,134,2.9
+558,Stalker,1979,162,4.4
+559,Luca,2021,95,3.7
+560,Captain America: The Winter Soldier,2014,136,3.7
+561,Zodiac,2007,157,4.0
+562,Ocean's Eight,2018,111,3.3
+563,The Imitation Game,2014,113,3.8
+564,The Matrix,1999,136,4.2
+565,Ikiru,1952,143,4.5
+566,The Texas Chain Saw Massacre,1974,83,3.8
+567,Chernobyl,2019,327,4.6
+568,The Thing,1982,109,4.4
+569,In the Name of the Father,1993,133,4.2
+570,The Boy and the Heron,2023,124,3.9
+571,Like Stars on Earth,2007,162,4.0
+572,Solo: A Star Wars Story,2018,135,2.9
+573,Juno,2007,96,3.8
+574,Man of Steel,2013,143,3.0
+575,Suspiria,1977,99,3.9
+576,Ted,2012,107,3.0
+577,The Hunger Games: Mockingjay – Part 2,2015,137,3.4
+578,Notting Hill,1999,124,3.7
+579,Back to the Future Part II,1989,108,3.9
+580,Ghostbusters,1984,107,3.8
+581,Cars 2,2011,106,2.9
+582,The Twilight Saga: Eclipse,2010,124,2.7
+583,Scream,1996,112,4.0
+584,Men in Black,1997,98,3.7
+585,How the Grinch Stole Christmas,2000,104,3.5
+586,TÁR,2022,158,3.9
+587,WALL·E,2008,98,4.2
+588,Paths of Glory,1957,88,4.4
+589,The Lighthouse,2019,109,4.0
+590,Babygirl,2024,115,2.9
+591,Dial M for Murder,1954,105,4.1
+592,Dungeons & Dragons: Honor Among Thieves,2023,134,3.5
+593,Emma.,2020,125,3.7
+594,12 Years a Slave,2013,134,4.2
+595,Evil Dead Rise,2023,96,3.2
+596,Spider-Man 2,2004,127,3.9
+597,The Royal Tenenbaums,2001,110,4.1
+598,The Godfather,1972,175,4.5
+599,Harry Potter and the Prisoner of Azkaban,2004,141,4.1
+600,Children of Men,2006,109,4.3
+601,Boogie Nights,1997,156,4.2
+602,The Platform,2019,95,3.2
+603,Tokyo Story,1953,137,4.4
+604,City of God,2002,129,4.5
+605,The Departed,2006,151,4.3
+606,Good Will Hunting,1997,127,4.3
+607,Rush,2013,123,3.8
+608,Sicario,2015,122,4.0
+609,The Wild Robot,2024,102,4.2
+610,Thor: Ragnarok,2017,131,3.7
+611,Kinds of Kindness,2024,164,3.3
+612,Rashomon,1950,88,4.2
+613,mid90s,2018,86,3.8
+614,Apocalypse Now,1979,147,4.4
+615,Harry Potter and the Deathly Hallows: Part 1,2010,146,3.7
+616,3 Idiots,2009,171,4.1
+617,All About Eve,1950,139,4.4
+618,Eternal Sunshine of the Spotless Mind,2004,108,4.2
+619,L.A. Confidential,1997,138,4.1
+620,Lady Bird,2017,94,3.8
+621,Woman of the Hour,2023,94,3.2
+622,Prometheus,2012,124,3.3
+623,The Third Man,1949,105,4.3
+624,X-Men: Days of Future Past,2014,132,3.7
+625,Avengers: Infinity War,2018,149,4.0
+626,Top Gun: Maverick,2022,131,4.0
+627,Halloween,1978,91,3.8
+628,The Pursuit of Happyness,2006,117,3.9
+629,Clueless,1995,97,3.7
+630,Batman v Superman: Dawn of Justice,2016,152,2.4
+631,Shaun of the Dead,2004,99,4.0
+632,Old,2021,108,2.4
+633,Wicked,2024,162,3.9
+634,Django Unchained,2012,165,4.3
+635,Five Nights at Freddy's,2023,110,2.6
+636,Killers of the Flower Moon,2023,206,4.1
+637,The Iron Claw,2023,132,4.1
+638,No Country for Old Men,2007,122,4.3
+639,John Wick: Chapter 4,2023,170,3.9
+640,I Saw the TV Glow,2024,100,3.5
+641,"I, Tonya",2017,120,3.9
+642,Bullet Train,2022,126,3.6
+643,Blue Valentine,2010,112,3.8
+644,Baby Driver,2017,113,3.7
+645,A Nightmare on Elm Street,1984,91,3.7
+646,To Be or Not to Be,1942,99,4.3
+647,"Three Billboards Outside Ebbing, Missouri",2017,115,4.0
+648,Toy Story 4,2019,100,3.4
+649,Parasite,2019,133,4.5
+650,Die Hard,1988,132,4.1
+651,Saltburn,2023,131,3.4
+652,"The Good, the Bad and the Ugly",1966,161,4.5
+653,Anyone But You,2023,103,2.9
+654,It's a Wonderful Life,1946,130,4.4
+655,Portrait of a Lady on Fire,2019,121,4.4
+656,The Social Network,2010,121,3.9
+657,The Fabelmans,2022,151,4.0
+658,The Battle of Algiers,1966,121,4.4
+659,The Sound of Music,1965,174,4.2
+660,Godzilla Minus One,2023,124,4.1
+661,Amélie,2001,122,4.2
+662,Moana,2016,107,3.7
+663,Saving Private Ryan,1998,169,4.2
+664,Nobody,2021,91,3.5
+665,Cars,2006,117,3.8
+666,The Shawshank Redemption,1994,142,4.6
+667,Infinity Pool,2023,118,3.1
+668,Batman Begins,2005,140,3.8
+669,The Bridge on the River Kwai,1957,161,4.2
+670,Soul,2020,101,3.9
+671,Barry Lyndon,1975,185,4.4
+672,Alien,1979,117,4.3
+673,GoodFellas,1990,145,4.5
+674,Trainspotting,1996,94,4.2
+675,Monty Python and the Holy Grail,1975,91,4.1
+676,2001: A Space Odyssey,1968,149,4.3
+677,Anatomy of a Fall,2023,151,4.1
+678,Sherlock Jr.,1924,45,4.4
+679,Normal People,2020,342,4.4
+680,Beautiful Boy,2018,119,4.0
+681,Before Sunset,2004,80,4.3
+682,M,1931,111,4.3
+683,Anora,2024,139,3.9
+684,Bohemian Rhapsody,2018,135,3.5
+685,On the Waterfront,1954,108,4.2
+686,Hachi: A Dog's Tale,2009,93,3.8
+687,Barbarian,2022,103,3.5
+688,The Northman,2022,137,3.8
+689,Indiana Jones and the Temple of Doom,1984,118,3.6
+690,Saw,2004,103,3.6
+691,Harry Potter and the Deathly Hallows: Part 2,2011,130,4.0
+692,Pirates of the Caribbean: Dead Man's Chest,2006,151,3.7
+693,Léon: The Professional,1994,111,4.0
+694,mother!,2017,121,3.5
+695,Bird Box,2018,124,2.9
+696,Wonder Woman,2017,141,3.2
+697,Coco,2017,105,4.1
+698,WandaVision,2021,350,3.8
+699,Stand by Me,1986,89,4.2
+700,Black Panther: Wakanda Forever,2022,162,3.3
+701,Up,2009,96,4.1
+702,Casino Royale,2006,144,4.0
+703,Don't Look Up,2021,138,3.0
+704,Ant-Man and the Wasp: Quantumania,2023,125,2.2
+705,Heat,1995,170,4.3
+706,How to Lose a Guy in 10 Days,2003,116,3.7
+707,Poor Things,2023,141,4.0
+708,Before Sunrise,1995,101,4.3
+709,"tick, tick... BOOM!",2021,115,3.8
+710,The Emperor's New Groove,2000,78,3.9
+711,I'm Still Here,2024,138,4.3
+712,Monsters University,2013,104,3.4
+713,Citizen Kane,1941,119,4.2
+714,Flow,2024,85,4.1
+715,Million Dollar Baby,2004,132,4.0
+716,Come and See ,1985,142,4.6
+717,Mr. & Mrs. Smith,2005,119,3.3
+718,American Psycho,2000,102,3.8
+719,Before Midnight,2013,109,4.0
+720,Snowpiercer,2013,127,3.7
+721,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,4.3
+722,A Complete Unknown,2024,140,3.6
+723,Project X,2012,88,3.3
+724,The General,1926,79,4.2
+725,Midnight in Paris,2011,94,3.7
+726,The Killing of a Sacred Deer,2017,121,3.7
+727,Inglourious Basterds,2009,153,4.3
+728,Shutter Island,2010,138,4.1
+729,Dog Day Afternoon,1975,125,4.3
+730,Perfect Days,2023,124,4.3
+731,Roma,2018,135,4.1
+732,The Dark Knight Rises,2012,165,3.8
+733,A Real Pain,2024,90,3.7
+734,Baby Reindeer,2024,237,4.0
+735,Climax,2018,97,3.8
+736,A Bug's Life,1998,95,3.5
+737,Us,2019,116,3.7
+738,Boyhood,2014,166,3.8
+739,What We Do in the Shadows,2014,86,4.1
+740,Jackie Brown,1997,154,3.9
+741,Once Upon a Time... in Hollywood,2019,162,3.8
+742,Another Round,2020,117,4.1
+743,Hamilton,2020,160,4.2
+744,A Star Is Born,2018,136,3.6
+745,The Darjeeling Limited,2007,92,3.8
+746,The Wolf of Wall Street,2013,180,4.0
+747,Reservoir Dogs,1992,99,4.2
+748,Triangle of Sadness,2022,147,3.7
+749,Dallas Buyers Club,2013,117,4.0
+750,Pulp Fiction,1994,154,4.3
+751,Zootopia,2016,109,3.7
+752,Dazed and Confused,1993,102,3.9
+753,The Lobster,2015,119,3.8
+754,A Beautiful Mind,2001,135,3.8
+755,Juror #2,2024,114,3.4
+756,Get Out,2017,104,4.1
+757,"Paris, Texas",1984,145,4.4
+758,Platoon,1986,120,4.0
+759,Into the Wild,2007,148,3.8
+760,Guillermo del Toro's Pinocchio,2022,117,4.0
+761,Amores Perros,2000,154,4.2
+762,Toy Story,1995,81,4.1
+763,Oldboy,2003,120,4.4
+764,The Zone of Interest,2023,105,3.9
+765,The Graduate,1967,106,4.1
+766,V for Vendetta,2005,132,3.9
+767,Civil War,2024,109,3.6
+768,Being John Malkovich,1999,113,4.1
+769,The Killer,2023,118,3.4
+770,Star Wars: Episode V - The Empire Strikes Back,1980,124,4.4
+771,Slumdog Millionaire,2008,120,3.9
+772,Fight Club,1999,139,4.3
+773,May December,2023,117,3.7
+774,Requiem for a Dream,2000,102,4.1
+775,Amadeus,1984,160,4.3
+776,The Favourite,2018,120,4.0
+777,La Haine,1995,98,4.5
+778,Venom,2018,112,2.9
+779,The Curious Case of Benjamin Button,2008,166,3.6
+780,Wild Strawberries,1957,91,4.3
+781,Harry Potter and the Order of the Phoenix,2007,138,3.7
+782,Guardians of the Galaxy Vol. 2,2017,137,3.5
+783,The Lord of the Rings: The Return of the King,2003,201,4.5
+784,Nightcrawler,2014,118,4.0
+785,Forrest Gump,1994,142,4.1
+786,Logan,2017,137,4.1
+787,Spider-Man: Into the Spider-Verse,2018,117,4.4
+788,Shrek,2001,90,4.1
+789,Dream Scenario,2023,102,3.4
+790,The Game,1997,129,3.8
+791,The French Dispatch,2021,108,3.7
+792,A Separation,2011,123,4.4
+793,Whiplash,2014,107,4.4
+794,Marcel the Shell with Shoes On,2021,90,4.2
+795,Ran,1985,160,4.5
+796,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,87,3.8
+797,Frances Ha,2012,86,4.0
+798,Squid Game,2021,495,3.7
+799,Bicycle Thieves,1948,89,4.3
+800,Air,2023,111,3.6
+801,Do the Right Thing,1989,120,4.4
+802,The Wonderful Story of Henry Sugar,2023,39,3.8
+803,Turning Red,2022,100,3.5
+804,Raw,2016,99,3.7
+805,Alice in Wonderland,2010,108,3.2

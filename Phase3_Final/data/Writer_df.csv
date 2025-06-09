@@ -1,0 +1,566 @@
+writer_id,writer_name
+1,Chiho Katsura
+2,Adam McKay
+3,T. J. Gnanavel
+4,Shane Black
+5,Charlotte Wells
+6,Joss Whedon
+7,Tina Fey
+8,Joel Coen
+9,Meg LeFauve
+10,Lauryn Kahn
+11,Steve Kloves
+12,Michael Lesslie
+13,Gregg Araki
+14,Christopher McQuarrie
+15,Robert Wade
+16,Noah Baumbach
+17,Damien Chazelle
+18,Javier Gullón
+19,Danny Rubin
+20,Andrew Kevin Walker
+21,Scott Beck
+22,Scott Silver
+23,Zach Lewis
+24,Yeon Sang-ho
+25,Danny Strong
+26,Brian Peterson
+27,James Clavell
+28,Larry McMurtry
+29,Quentin Tarantino
+30,James V. Hart
+31,Nikki Reed
+32,Ryan Coogler
+33,Kelly Fremon Craig
+34,Michael Waldron
+35,Michael Arndt
+36,Mathieu Kassovitz
+37,Stephen Chbosky
+38,David Lynch
+39,Ti West
+40,Sylvester Stallone
+41,Edgar Wright
+42,Catherine Johnson
+43,John August
+44,Reiko Yoshida
+45,Jared Hess
+46,Sam Raimi
+47,Billy Wilder
+48,George Miller
+49,Richard Kelly
+50,Damon Lindelof
+51,Allison Schroeder
+52,Coralie Fargeat
+53,Jim Cash
+54,Valérie Beaugrand-Champagne
+55,Peter Straughan
+56,Abraham Marder
+57,I. A. L. Diamond
+58,Kelly Marcel
+59,Keir Pearson
+60,Chris Terrio
+61,Andres Heinz
+62,Chris McKenna
+63,Taika Waititi
+64,Miles Millar
+65,James Gunn
+66,Roman Coppola
+67,Robert Zemeckis
+68,James Cameron
+69,Kirsten Smith
+70,Paul Fisher
+71,Sofia Coppola
+72,Fede Álvarez
+73,Christina Hodson
+74,Cary Joji Fukunaga
+75,Brian Hayes Currie
+76,Scott Neustadter
+77,Aaron Guzikowski
+78,Harry Crocker
+79,David Berenbaum
+80,Jennifer Kent
+81,Tony Kushner
+82,David Franzoni
+83,Robert L. Baird
+84,Seth Rogen
+85,Simon Beaufoy
+86,Charlie Chaplin
+87,Jimmy Warden
+88,T.J. Fixman
+89,Aaron Sorkin
+90,Çağan Irmak
+91,John Hughes
+92,Paddy Chayefsky
+93,Steven Conrad
+94,Helen Fielding
+95,Florian Zeller
+96,Danny Philippou
+97,Michael Bacall
+98,Michael Wilson
+99,Rian Johnson
+100,Dan Fogelman
+101,Chloé Zhao
+102,Jacques Audiard
+103,Christopher Nolan
+104,Andy Siara
+105,David Scarpa
+106,Oliver Stone
+107,Linda Woolverton
+108,Paul Thomas Anderson
+109,Izo Hashimoto
+110,Melissa Mathison
+111,David Koepp
+112,M. Night Shyamalan
+113,Billy Frolick
+114,Irene Mecchi
+115,J.A. Bayona
+116,Derek Kolstad
+117,Jane Goldman
+118,Bronte Woodard
+119,Matthew Fogel
+120,Robert Eggers
+121,Jeff Rowe
+122,David Magee
+123,Fran Walsh
+124,Phil Lord
+125,John Logan
+126,Peter Chiarelli
+127,Satoshi Kon
+128,Stephen McFeely
+129,Andrew Stanton
+130,Ernest Cline
+131,Gary Ross
+132,Amanda Silver
+133,Lee Isaac Chung
+134,Upendra Sidhaye
+135,Lee Hall
+136,Drew Hancock
+137,Leonardo Benvenuti
+138,Kay Cannon
+139,Nunnally Johnson
+140,Jeremy Leven
+141,Charlie Kaufman
+142,George Axelrod
+143,Ron Clements
+144,Lukas Dhont
+145,Gene Stupnitsky
+146,Ryūsuke Hamaguchi
+147,Reginald Rose
+148,Osgood Perkins
+149,Parker Finn
+150,Eduardo Sánchez
+151,Roman Polanski
+152,Robert Ben Garant
+153,Daniel Kwan
+154,Ethan Coen
+155,Ted Tally
+156,Grant Pierce Myers
+157,Patrick Burleigh
+158,Luciano Vincenzoni
+159,David Cronenberg
+160,Eric Roth
+161,Ronald Harwood
+162,Pamela Pettler
+163,Robert Schenkkan
+164,Sam Esmail
+165,David Robert Mitchell
+166,Eijirō Hisaita
+167,Anthony McCarten
+168,Denis Villeneuve
+169,Josh Campbell
+170,Terry Rossio
+171,Brad Bird
+172,Vidhu Vinod Chopra
+173,Hayao Miyazaki
+174,Caroline Thompson
+175,E.T. Feigenbaum
+176,David Hemingson
+177,Alex Kurtzman
+178,Martin McDonagh
+179,James Vanderbilt
+180,Nico Lathouris
+181,Olivier Nakache
+182,Michael Herr
+183,Leigh Brackett
+184,Katie Silberman
+185,Seth Reiss
+186,Park Chan-wook
+187,Giuseppe Tornatore
+188,Gary Dauberman
+189,Wolfgang Petersen
+190,Michael Hogan
+191,David N. Weiss
+192,Melissa Rosenberg
+193,Diablo Cody
+194,Shreyas Jain
+195,Bo Burnham
+196,Aline Brosh McKenna
+197,Christy Hall
+198,Ari Aster
+199,Jon Lucas
+200,Nicholas Kazan
+201,Florian Henckel von Donnersmarck
+202,Karl Tunberg
+203,David Webb Peoples
+204,Andrew Lobel
+205,Sofia Alvarez
+206,John Michael Hayes
+207,Simon Farnaby
+208,Sacha Baron Cohen
+209,George Lucas
+210,Michael Crichton
+211,Leigh Whannell
+212,Alan Ball
+213,Alex Garland
+214,Alvin Sargent
+215,Dean DeBlois
+216,Horton Foote
+217,Colin Cairnes
+218,Kevin Williamson
+219,Carl Gottlieb
+220,David S. Ward
+221,John Krasinski
+222,Ann Peacock
+223,Rhett Reese
+224,Guillermo del Toro
+225,Matthew Vaughn
+226,Tom Ford
+227,Chris Weitz
+228,Ol Parker
+229,Akela Cooper
+230,Steven Zaillian
+231,David Hayter
+232,Vanessa Taylor
+233,Glenn Berger
+234,Lesley Paterson
+235,Mark L. Smith
+236,Jon Spaihts
+237,Nora Ephron
+238,Cameron Crowe
+239,Emerald Fennell
+240,Mickey Knox
+241,David Rabinowitz
+242,Geneva Robertson-Dworet
+243,Josh Friedman
+244,Jack Thorne
+245,Frank Darabont
+246,Justin Kuritzkes
+247,Sadayuki Murai
+248,Lawrence D. Cohen
+249,Jonathan Nolan
+250,Jennifer Lee
+251,Krysty Wilson-Cairns
+252,Eleanor Bergstein
+253,Sarah DeLappe
+254,Carl Theodor Dreyer
+255,Josh Safdie
+256,Brady Corbet
+257,Lawrence Kasdan
+258,Fritz Lang
+259,Emma Donoghue
+260,Anna Hamilton Phelan
+261,Anthony Tambakis
+262,J.K. Rowling
+263,David Leslie Johnson-McGoldrick
+264,Ben Stiller
+265,Greta Gerwig
+266,Chris Collins
+267,Guy Ritchie
+268,Henri-Georges Clouzot
+269,Andrzej Żuławski
+270,David McKenna
+271,Stanley Kubrick
+272,Celine Song
+273,Tom Schulman
+274,Frederic Raphael
+275,Paul King
+276,Steven Knight
+277,Edward Ricourt
+278,Majid Majidi
+279,Paul Schrader
+280,Wes Anderson
+281,Craig Pearce
+282,Tony McNamara
+283,Michael J. Wilson
+284,David Lowery
+285,Boots Riley
+286,Charles Brackett
+287,Deric Washburn
+288,Xavier Cook
+289,Gillian Flynn
+290,Ken Daurio
+291,Vincenzo Cerami
+292,Rick Jaffa
+293,Martin Scorsese
+294,Paul Angunawela
+295,Henry Selick
+296,Warren Skaaren
+297,Destin Daniel Cretton
+298,Rita Hsiao
+299,Rose Glass
+300,Carey Hayes
+301,Matthew López
+302,Akira Kurosawa
+303,Nancy Meyers
+304,Guy Busick
+305,Wong Kar-wai
+306,William Broyles Jr.
+307,Sidney Buchman
+308,Makoto Shinkai
+309,Eric Heisserer
+310,Ingmar Bergman
+311,Nick Payne
+312,Chris Sanders
+313,Georges Khabbaz
+314,Emma Seligman
+315,Tom McCarthy
+316,Nick Schenk
+317,Jeffrey Boam
+318,Jim Strain
+319,Richard Curtis
+320,Drew Pearce
+321,Julia Ducournau
+322,Isao Takahata
+323,John Huston
+324,James Ivory
+325,Adam Elliot
+326,Matt Reeves
+327,Deborah Moggach
+328,Charise Castro Smith
+329,William Peter Blatty
+330,Florence Ryerson
+331,Peter Jackson
+332,Jeff Nathanson
+333,Andrew Haigh
+334,Jane Campion
+335,Joseph Stefano
+336,Josh Goldsmith
+337,Baz Luhrmann
+338,Randall Wallace
+339,Adolph Green
+340,Jenny Bicks
+341,Damián Szifron
+342,Samuel D. Hunter
+343,Shinobu Hashimoto
+344,Hossein Amini
+345,Scott Derrickson
+346,Justin Theroux
+347,Emily Halpern
+348,Phyllis Nagy
+349,Barry Jenkins
+350,Alejandro González Iñárritu
+351,Juan José Campanella
+352,Abby Mann
+353,Julius J. Epstein
+354,Mario Puzo
+355,William Goldman
+356,Sidney Howard
+357,John-Henry Butterworth
+358,Kenneth Lonergan
+359,Ram Murali
+360,Ted Elliott
+361,Andrew Niccol
+362,Scott Frank
+363,Tobias Lindholm
+364,Ernest Lehman
+365,John Francis Daley
+366,Mike Werb
+367,Hampton Fancher
+368,David O. Russell
+369,Michael Sarnoski
+370,Dave Holstein
+371,Tate Taylor
+372,Callie Khouri
+373,Trey Edward Shults
+374,Richard Linklater
+375,Mark Fergus
+376,Matt Lieberman
+377,Cord Jefferson
+378,Mark Herman
+379,Jennifer Westfeldt
+380,Bong Joon Ho
+381,Alan Schoolcraft
+382,Jim Sharman
+383,Anthony Minghella
+384,Gina Wendkos
+385,Drew Goddard
+386,Samuel A. Taylor
+387,Ashley Miller
+388,Henry Gayden
+389,Jordan Peele
+390,Todd Phillips
+391,Robert E. Sherwood
+392,Sean Baker
+393,David Kajganich
+394,Robert Towne
+395,Lawrence Hauben
+396,Bert V. Royal
+397,Mike White
+398,Christopher Hampton
+399,J.F. Lawton
+400,Spike Jonze
+401,Julius Onah
+402,Jonás Cuarón
+403,John Hoberg
+404,Heather Hach
+405,Rafe Judkins
+406,Jeremy Doner
+407,Bernd Eichinger
+408,Joachim Trier
+409,Daniel Waters
+410,Ted Griffin
+411,Eric Pearson
+412,Arkadiy Strugatskiy
+413,Mike Jones
+414,Graham Moore
+415,Lilly Wachowski
+416,Kim Henkel
+417,Craig Mazin
+418,Bill Lancaster
+419,Jim Sheridan
+420,Amole Gupte
+421,David S. Goyer
+422,Daria Nicolodi
+423,Seth MacFarlane
+424,Bob Gale
+425,Dan Aykroyd
+426,Ben Queen
+427,Ed Solomon
+428,Jeffrey Price
+429,Todd Field
+430,Jim Reardon
+431,Jim Thompson
+432,Max Eggers
+433,Halina Reijn
+434,Frederick Knott
+435,Michael Gilio
+436,Eleanor Catton
+437,John Ridley
+438,Lee Cronin
+439,Francis Ford Coppola
+440,David Arata
+441,Pedro Rivero
+442,Kōgo Noda
+443,Bráulio Mantovani
+444,William Monahan
+445,Ben Affleck
+446,Peter Morgan
+447,Taylor Sheridan
+448,Craig Kyle
+449,Yorgos Lanthimos
+450,Jonah Hill
+451,John Milius
+452,Rajkumar Hirani
+453,Joseph L. Mankiewicz
+454,Curtis Hanson
+455,Ian McDonald
+456,Graham Greene
+457,Simon Kinberg
+458,Christopher Markus
+459,Eric Warren Singer
+460,Debra Hill
+461,Amy Heckerling
+462,Simon Pegg
+463,Winnie Holzman
+464,Seth Cuddeback
+465,Sean Durkin
+466,Shay Hatten
+467,Jane Schoenbrun
+468,Steven Rogers
+469,Zak Olkewicz
+470,Joey Curtis
+471,Wes Craven
+472,Edwin Justus Mayer
+473,Stephany Folsom
+474,Kim Dae-hwan
+475,Jeb Stuart
+476,Ilana Wolpert
+477,Frances Goodrich
+478,Céline Sciamma
+479,Gillo Pontecorvo
+480,Takashi Yamazaki
+481,Guillaume Laurant
+482,Jared Bush
+483,Robert Rodat
+484,Brandon Cronenberg
+485,Carl Foreman
+486,Pete Docter
+487,Dan O'Bannon
+488,Nicholas Pileggi
+489,John Hodge
+490,Graham Chapman
+491,Arthur C. Clarke
+492,Justine Triet
+493,Clyde Bruckman
+494,Luke Davies
+495,Ethan Hawke
+496,Thea von Harbou
+497,Budd Schulberg
+498,Stephen P. Lindsey
+499,Zach Cregger
+500,Sjón
+501,Gloria Katz
+502,Luc Besson
+503,Darren Aronofsky
+504,Allan Heinberg
+505,Adrian Molina
+506,Raynold Gideon
+507,Bob Peterson
+508,Jeff Loveness
+509,Michael Mann
+510,Kristen Buckley
+511,Kim Krizan
+512,Jonathan Larson
+513,David Reynolds
+514,Murilo Hauser
+515,Orson Welles
+516,Matīss Kaža
+517,Paul Haggis
+518,Ales Adamovich
+519,Mary Harron
+520,Jay Cocks
+521,Matt Drake
+522,Woody Allen
+523,Efthymis Filippou
+524,Laeta Kalogridis
+525,Frank Pierson
+526,Takuma Takasaki
+527,Alfonso Cuarón
+528,Jesse Eisenberg
+529,Gaspar Noé
+530,Bob Shaw
+531,Jemaine Clement
+532,Thomas Vinterberg
+533,Lin-Manuel Miranda
+534,Bradley Cooper
+535,Terence Winter
+536,Ruben Östlund
+537,Melisa Wallack
+538,Akiva Goldsman
+539,Jonathan A. Abrams
+540,Sam Shepard
+541,Sean Penn
+542,Guillermo Arriaga
+543,Alec Sokolow
+544,Lim Joon-hyung
+545,Jonathan Glazer
+546,Calder Willingham
+547,Lana Wachowski
+548,Jim Uhls
+549,Samy Burch
+550,Hubert Selby Jr.
+551,Peter Shaffer
+552,Scott Rosenberg
+553,Michael Goldenberg
+554,Dan Gilroy
+555,Michael Green
+556,Kristoffer Borgli
+557,John Brancato
+558,Asghar Farhadi
+559,Dean Fleischer Camp
+560,Hideo Oguni
+561,Koyoharu Gotouge
+562,Cesare Zavattini
+563,Alex Convery
+564,Spike Lee
+565,Domee Shi
